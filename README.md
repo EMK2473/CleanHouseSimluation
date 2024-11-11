@@ -4,11 +4,10 @@
 ## Table of Contents
 
 1. [How to Run the Program](#how-to-run-the-program)
-2. [Initial Setup](#initial-setup)
-3. [Overview](#overview)
-4. [Code Explanation](#code-explanation)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Overview](#overview)
+3. [Code Explanation](#code-explanation)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 
 ## How to Run the Program
