@@ -40,8 +40,6 @@
 The **House Organizing Program** is a console-based application that helps the user organize and manage items spread across different rooms in a house. The house consists of various rooms with items that can be moved or stored in designated locations based on user inputs. The living room is designated as the **check room**, where items can be saved or moved, and the **Downstairs Master Bedroom** is the **storage room** where items are stored for future use.
 
 
-### Initial Setup
-
 - **Rooms**: The house consists of 10 rooms, including:
   - **Living Room (Check Room)**: Used for checking items, either saving or moving them to the storage room.
   - **Downstairs Master Bedroom (Storage Room)**: Used to store items.
@@ -49,7 +47,6 @@ The **House Organizing Program** is a console-based application that helps the u
 
 - **Items**: Items such as musical instruments, furniture, and trash are randomly seeded into rooms at the start of the program.
 
-### User Interaction
 
 The program prompts the user to select a room, view the items in the room, and choose an action. Available actions are:
 
