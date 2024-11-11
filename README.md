@@ -56,7 +56,7 @@ The user can continue to interact with the program until they choose to exit.
 1. **Clone or Download the Project**:
    - Clone this repository using Git:
      ```bash
-     git clone https://github.com/yourusername/house-organizing-program.git
+     git clone https://github.com/EMK2473/CleanHouseSimluation.git
      ```
    - Or, download the ZIP file and extract it.
 
