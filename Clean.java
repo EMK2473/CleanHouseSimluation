@@ -130,7 +130,7 @@ public class Clean {
         System.out.println("The Downstairs Master Bedroom is the designated storage room.");
         System.out.println("You can only remove items from the house if they are placed in the living room.");
         System.out.println("Otherwise, you can go into any room and either store its items or move them to the living room.");
-        System.out.println("Items in the living room can be either saved/trash (removed from the house) or stored in the storage room.");
+        System.out.println("Items in the living room can be either saved/trashed (removed from the house) or stored in the storage room.");
         System.out.println("Let's get started!\n");
 
         while (true) {
